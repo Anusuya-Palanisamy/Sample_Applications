@@ -1,0 +1,10 @@
+com\OMS\OrderMangeSystemApplication.class
+com\OMS\service\OrderService.class
+com\OMS\model\Address.class
+com\OMS\model\Product.class
+com\OMS\Controller\RestContoller.class
+com\OMS\Request\BaseRequest.class
+com\OMS\model\Customer.class
+com\OMS\Request\OrderRequest.class
+com\OMS\model\Orders.class
+com\OMS\repository\OrderRepository.class
